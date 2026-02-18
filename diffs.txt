@@ -1,5 +1,3 @@
-celeste-difficulty
-
 d1 	Beginner 	(Débutant)	Vert
 d2 	Intermediate 	(Amateur) 	Vert clair
 d3 	Advanced 	(Avancer) 	Jaune
