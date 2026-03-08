@@ -14,7 +14,7 @@ Difficulté estimé de la room respectivement aux autres room en bas à droite d
 
 Room aligné avec les colonnes
 
-Largeur des colonnes contenant le nombres plus petite
+Largeur des colonnes contenant le nombre plus petite
 
 Version clear / arb / max % séparé, puisqu'il peut y avoir encore d'autres version, rendre ça scalable
 
